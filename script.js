@@ -3,20 +3,20 @@ document.addEventListener('DOMContentLoaded', () => {
         {
             img: 'wolontariat.jpg',
             name: 'Wolontariat weekendowy w schronisku dla zwierząt',
-            description: 'Pomoc w opiece nad zwierzętami przez weekend.',
+            description: 'Pomoc w opiece nad zwierzętami w weekend.',
             points: 45
         },
         {
             img: 'sprzatanie.jpg',
             name: 'Sprzątanie parku',
             description: 'Organizowanie akcji sprzątania lokalnego parku.',
-            points: 30
+            points: 25
         },
         {
-            img: 'lekcje.jpg',
-            name: 'Pomoc w lekcjach',
-            description: 'Wsparcie młodszych uczniów w odrabianiu lekcji.',
-            points: 40
+            img: 'klubsjpg',
+            name: 'Wolontariat w Klubie Seniora',
+            description: 'Prowadzenie zajęć z obsługi smartfona w Klubie Seniora.',
+            points: 35
         }
     ];
 
