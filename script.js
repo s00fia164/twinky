@@ -7,16 +7,16 @@ document.addEventListener('DOMContentLoaded', () => {
             points: 45
         },
         {
-            img: 'images/sprzatanie.jpg',
-            name: 'Sprzątanie parku',
-            description: 'Organizowanie akcji sprzątania lokalnego parku.',
-            points: 25
+            img: 'images/tedx.jpg',
+            name: 'Wolontariat na lokalnym wydarzeniu TEDx',
+            description: 'Pomoc w organizacji lokalnego TEDxa.',
+            points: 35
         },
         {
-            img: 'images/klubsjpg',
-            name: 'Wolontariat w Klubie Seniora',
-            description: 'Prowadzenie zajęć z obsługi smartfona w Klubie Seniora.',
-            points: 35
+            img: 'images/bibl.jpg',
+            name: 'Pomoc w zbieraniu funduszy',
+            description: 'Pomoc w zbieraniu funduszy na odnowę starej biblioteki szkolnej.',
+            points: 30
         }
     ];
 
