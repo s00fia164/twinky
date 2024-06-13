@@ -8,8 +8,8 @@ document.addEventListener('DOMContentLoaded', () => {
         },
         {
             img: 'images/tedskik.jpg',
-            name: 'Wolontariat na lokalnym wydarzeniu TEDx',
-            description: 'Pomoc w organizacji lokalnego TEDxa.',
+            name: 'Pomoc w organizacji lokalnego szkolnego wydarzenia TEDx',
+            description: 'Pomoc w organizacji lokalnego TEDxa w szkole.',
             points: 35
         },
         {
