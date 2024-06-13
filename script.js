@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
             points: 45
         },
         {
-            img: 'images/tedx.jpg',
+            img: 'images/tedskik.jpg',
             name: 'Wolontariat na lokalnym wydarzeniu TEDx',
             description: 'Pomoc w organizacji lokalnego TEDxa.',
             points: 35
