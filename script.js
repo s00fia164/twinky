@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
             points: 45
         },
         {
-            img: 'images/tedskik.jpg',
+            img: 'images/IMG_0357.PNG',
             name: 'Pomoc w organizacji lokalnego szkolnego wydarzenia TEDx',
             description: 'Pomoc w organizacji lokalnego TEDxa w szkole.',
             points: 35
